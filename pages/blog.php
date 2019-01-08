@@ -650,7 +650,7 @@ while ($row = mysqli_fetch_array($kt)) {
 					<div style="float: left;"><a href="#"><img src="upload/blog/1.jpg" class="img-responsiv img-circle" alt="Responsive image " style="width: 30px;height: 30px;"></a></div>
 					<div style="padding-left: 10px;margin-left: 25px;">
 					<div style="margin-top: 5px;">
-					<span style="background-color:#f1f1f1;padding: 7px;font-size:14px;border-radius: 20px;padding-left: 14px;padding-right: 14px;"><a href="#" style="color: #365899;cursor: pointer;font-weight: bold;">Phạm Công Danh</a><span style="padding-left: 5px;">Like</span></span>
+					<span style="background-color:#f1f1f1;padding: 7px;font-size:14px;border-radius: 20px;padding-left: 14px;padding-right: 14px;"><a href="#" style="color: #365899;cursor: pointer;font-weight: bold;"></a><span style="padding-left: 5px;">Like</span></span>
 					<p style="color:#000;font-size: 10px;opacity: 0.9;padding: 10px;margin-left: 5px;">20 phút.</p>
 					</div>
 					</div>
