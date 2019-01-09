@@ -153,8 +153,8 @@ CREATE TABLE `contact` (
 
 INSERT INTO `contact` (`name`, `email`, `phone`, `content`, `id_contact`) VALUES
 ('aaaaaaaaaaaaaaa', 'aaaaaaaaaaaaaaa', 'aaaaaaaa', 'aaaaaaaaaaaaaa', 1),
-('Phạm Công Danh', 'okkemdau@gmail.com', '01659916555', 'HÚ HÚ', 2),
-('Phạm Hoàng Đức', 'yeuemmaithoine@yahoo.com', 'aaaaaaaa', 'aaaaaaaaaaaaaaaa', 3);
+('Nguyễn Văn Triệu', 'vantrieu@gmail.com', '0359916555', 'HÚ HÚ', 2),
+('Nguyễn Tiến Triển', 'yeuemmaithoine@yahoo.com', 'aaaaaaaa', 'aaaaaaaaaaaaaaaa', 3);
 
 -- --------------------------------------------------------
 
