@@ -448,8 +448,8 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id_users`, `username`, `PASSWORD`, `fullname`, `email`, `phone_number`, `address`, `sex`, `avatar`) VALUES
 (1, 'spapet', 'spapet', 'User1', 'spapet@gmail.com', '01156151655', 'Hà Nội', 1, 'none'),
-(2, 'trien1998', 'trien1998', 'Nguyễn Tiến Triển', 'hustrien@gmail.com', '01659916555', 'Hà Nội', 1, NULL),
-(4, 'lioneldanh2610', 'lioneldanh', 'Phạm Công Danh', 'okkemdau@gmail.com', '01659916555', 'Thái Bình', 1, NULL),
+(2, 'trien1998', 'trien1998', 'Nguyễn Tiến Triển', 'hustrien@gmail.com', '0359916555', 'Hà Nội', 1, NULL),
+(4, 'thanh1998', 'ntthanh', 'Nguyễn Tiến Thành', 'thanhnt2304@gmail.com', '0964462603', 'Bắc Ninh', 1, NULL),
 (5, '', '', '', '', '', '', 0, NULL);
 
 --
